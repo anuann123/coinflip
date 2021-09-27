@@ -1,0 +1,30 @@
+
+.outer{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 4rem;
+  text-align: center;
+}
+
+p{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 23rem;
+  width:1300px;
+  height:100px;
+}
+
+button{
+width: 250px;
+height:50px;
+font-size: 2rem;
+border-radius: 20px;
+align-items: center;
+
+}
+
+button:hover{
+  border-color: blue;
+}
